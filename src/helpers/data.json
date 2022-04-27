@@ -1,0 +1,21 @@
+{
+    "frameworks": [
+        {
+            "id": 1,
+            "name": "React",
+            "web": "https://reactjs.org"
+        },        {
+            "id": 2,
+            "name": "Angular",
+            "web": "https://angular.io"
+        },        {
+            "id": 3,
+            "name": "View",
+            "web": "https://viewjs.org"
+        },        {
+            "id": 4,
+            "name": "Svelte",
+            "web": "https://svelte.org"
+        }
+    ]
+}

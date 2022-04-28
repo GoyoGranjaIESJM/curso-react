@@ -1,5 +1,6 @@
 import React from "react";
-import Formularios1 from "./componentes/Formularios1";
+import Estilos from "./componentes/Estilos";
+// import Formularios1 from "./componentes/Formularios1";
 // import AjaxHooks from "./componentes/AjaxHooks";
 // import HooksPersonalizados from "./componentes/HooksPersonalizados";
 // import Referencias from "./componentes/Referencias";
@@ -18,7 +19,8 @@ function App1() {
       {/* <RelojHooks /> */}
       {/* <HooksPersonalizados /> */}
       {/* <Referencias /> */}
-      <Formularios1 />
+      {/* <Formularios1 /> */}
+      <Estilos />
     </>
   );
 }

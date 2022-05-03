@@ -1,5 +1,6 @@
 import React from "react";
-import Estilos from "./componentes/Estilos";
+import ComponentesEstilizados from "./componentes/ComponentesEstilizados";
+// import Estilos from "./componentes/Estilos";
 // import Formularios1 from "./componentes/Formularios1";
 // import AjaxHooks from "./componentes/AjaxHooks";
 // import HooksPersonalizados from "./componentes/HooksPersonalizados";
@@ -20,7 +21,8 @@ function App1() {
       {/* <HooksPersonalizados /> */}
       {/* <Referencias /> */}
       {/* <Formularios1 /> */}
-      <Estilos />
+      {/* <Estilos /> */}
+      <ComponentesEstilizados />
     </>
   );
 }
